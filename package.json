@@ -1,0 +1,19 @@
+{
+  "name": "stripe-sample",
+  "version": "1.0.0",
+  "description": "A sample script in Node and Angular for Stripe payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhodeep9/stripe-sample.git"
+  },
+  "author": "Shubhodeep Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhodeep9/stripe-sample/issues"
+  },
+  "homepage": "https://github.com/shubhodeep9/stripe-sample#readme"
+}
